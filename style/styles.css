@@ -10,3 +10,35 @@
     color: white;
     background-color: green;
 }
+
+.description{
+    background-color: brown;
+    color: white;
+    font-size: 20px;
+}
+
+.images{
+    height: auto;
+    width: 500px;
+}
+
+.subtitle{
+    color: white;
+    background-color: blueviolet;
+}
+
+.subsub{
+    color: white;
+    background-color: rgb(243, 130, 149);
+    font-size: 20px;
+}
+
+.text{
+    background-color: yellow;
+}
+
+.thanks{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+}
